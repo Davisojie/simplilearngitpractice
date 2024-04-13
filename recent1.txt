@@ -3,4 +3,7 @@ This is a new line when in the staged area
 This line has been added
 I have added the third file 
 Added a new line 
-I have added a new line
+I have added a new 
+I have added another line 
+I have added this line
+This should replace the newest file
