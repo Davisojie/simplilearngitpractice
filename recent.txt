@@ -1,0 +1,6 @@
+This is my latest file
+This is a new line when in the staged area
+This line has been added
+I have added the third file 
+Added a new line 
+I have added a new line
